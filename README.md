@@ -14,7 +14,7 @@ Banking Application REST API using Spring Boot and Spring Data JPA
 - Download link for Postman -> https://www.getpostman.com/downloads/
 - Open Postman and send requests.
 
-### NOTE: This is a Maven project. So there is no need to download external .jars
+##### NOTE: This is a Maven project. So there is no need to download external .jars
 
 
 ### Tech Stack: Spring Boot, Spring Data JPA, Java, SQL, Apache Derby, Maven, Spring Tool Suite
